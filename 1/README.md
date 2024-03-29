@@ -1,4 +1,4 @@
-Approach:\
+Approach:
 - We represent each integer in the list and the threshold value 'k' as binary strings.\
 - We construct a quantum circuit to compare each integer with 'k' using quantum operations.\
 - We perform measurements on the circuit to obtain the result.\
